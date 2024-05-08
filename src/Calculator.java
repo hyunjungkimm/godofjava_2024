@@ -1,4 +1,7 @@
 public class Calculator {
+    public static void main(String[] args) {
+        System.out.println("Calculator class started");
+    }
     public int add(int num1, int num2) {
         int sum;
         sum = num1 + num2;
